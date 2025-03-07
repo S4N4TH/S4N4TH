@@ -50,8 +50,8 @@ A collection of manual test cases, including functional tests, regression tests,
 
 ## 📬 Contact Me:
 Feel free to reach out to me through any of the following platforms:
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/sanath-a-s-341965314/)
-- **Email**: [your-email@example.com](sanath.suresh.a@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/sanath-a-s-341965314/)
+- **Email**: [email](sanath.suresh.a@gmail.com)
 
 ---
 
